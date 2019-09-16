@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+#wrapp {
+    background-color: bisque;
+    width: 50%;
+    height: 50vh;
+}
+.container {
+    background-color: #b8a6c9;
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

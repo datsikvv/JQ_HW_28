@@ -1,0 +1,15 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "devDependencies": {
+    "json-server": "^0.15.1"
+  },
+  "scripts": {
+    "server": "json-server --watch db.json --port 3030"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
